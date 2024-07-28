@@ -101,7 +101,7 @@ const PlaceOrder = () => {
 
             </div>
           </div>
-            <button type='submit'  >PROCEED TO PAYMENT</button>
+            <button type='submit'>PROCEED TO PAYMENT</button>
         </div>
       </div>
 
